@@ -11,7 +11,7 @@ I am an AI Engineer and applied mathematician focused on solving complex industr
 *   **Syncnature:** Architecting an automated signature verification system utilizing root-finding algorithms, interpolation, and derivatives for secure access management.
 *   **Lemu:** Co-founder of an EdTech startup building a gamified platform that leverages interactive visualizations and probability modules to transform how users engage with applied mathematics.
 
-📫 **Let's Connect:** https://www.linkedin.com/in/saba-chichinadze-a7898839b/?isSelfProfile=true****
+📫 **Let's Connect:** https://www.linkedin.com/in/saba-chichinadze-a7898839b/?isSelfProfile=true
 
 <!--
 **chichinadzesab-maker/chichinadzesab-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
