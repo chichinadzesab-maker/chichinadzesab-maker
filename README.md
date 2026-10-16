@@ -1,29 +1,15 @@
 # Hi, I'm Saba 👋
 
-I am an AI Engineer and applied mathematician focused on solving complex industry problems through algorithmic modeling and scalable tech startups. I specialize in translating advanced numerical methods into intelligent, market-ready products.
+I am a tech builder specialized in mathematics and its applications, working on solving industry problems using applied math and AI products. 
 
 ### 🛠 Technical Arsenal
-*   **AI & Applied Math:** Python, Probability Theory, Numerical Methods, Edge Detection, Ordinary Least Squares
-*   **Engineering & Visualization:** JavaScript, WebGL, Three.js, KaTeX
-*   **Core Competencies:** Mathematical Modeling, Hardware-Software Integration, Startup Architecture
+*   **Applied Mathematics:** Numerical Methods, Optimization Algorithms, Linear Algebra, Multivariable Calculus, Probability Theory & Statistics
+*   **AI & Engineering:** Python, Machine Learning Architecture, JavaScript, Hardware-Software Integration
+*   **Interactive Visualization:** WebGL, Three.js, KaTeX
 
-### 🚀 What I'm Building
-*   **Syncnature:** Architecting an automated signature verification system utilizing root-finding algorithms, interpolation, and derivatives for secure access management.
-*   **Lemu:** Co-founder of an EdTech startup building a gamified platform that leverages interactive visualizations and probability modules to transform how users engage with applied mathematics.
+### 🚀 What I'm Doing
+*   **Lemu:** Co-founder of an EdTech startup building a gamified platform that leverages interactive visualizations to transform how users engage with mathematics.
+*   **AI Engineering & Industry Solutions:** Developing algorithmic models and AI products to tackle real-world physical and digital challenges. 
+*   **Previous Work:** Built systems like Syncnature, applying root-finding algorithms, interpolation, and numerical methods to automated access and verification.
 
-📫 **Let's Connect:** https://www.linkedin.com/in/saba-chichinadze-a7898839b/?isSelfProfile=true
-
-<!--
-**chichinadzesab-maker/chichinadzesab-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/saba-chichinadze-a7898839b/)
